@@ -1,0 +1,129 @@
+{
+    "listings": [
+        {
+            " Team Name": "Boston Bruins",
+            "Year": "1990",
+            "Goals": "299"
+        },
+        {
+            " Team Name": "Buffalo Sabres",
+            "Year": "1990",
+            "Goals": "292"
+        },
+        {
+            " Team Name": "Calgary Flames",
+            "Year": "1990",
+            "Goals": "344"
+        },
+        {
+            " Team Name": "Chicago Blackhawks",
+            "Year": "1990",
+            "Goals": "284"
+        },
+        {
+            " Team Name": "Detroit Red Wings",
+            "Year": "1990",
+            "Goals": "273"
+        },
+        {
+            " Team Name": "Edmonton Oilers",
+            "Year": "1990",
+            "Goals": "272"
+        },
+        {
+            " Team Name": "Hartford Whalers",
+            "Year": "1990",
+            "Goals": "238"
+        },
+        {
+            " Team Name": "Los Angeles Kings",
+            "Year": "1990",
+            "Goals": "340"
+        },
+        {
+            " Team Name": "Minnesota North Stars",
+            "Year": "1990",
+            "Goals": "256"
+        },
+        {
+            " Team Name": "Montreal Canadiens",
+            "Year": "1990",
+            "Goals": "273"
+        },
+        {
+            " Team Name": "New Jersey Devils",
+            "Year": "1990",
+            "Goals": "272"
+        },
+        {
+            " Team Name": "New York Islanders",
+            "Year": "1990",
+            "Goals": "223"
+        },
+        {
+            " Team Name": "New York Rangers",
+            "Year": "1990",
+            "Goals": "297"
+        },
+        {
+            " Team Name": "Philadelphia Flyers",
+            "Year": "1990",
+            "Goals": "252"
+        },
+        {
+            " Team Name": "Pittsburgh Penguins",
+            "Year": "1990",
+            "Goals": "342"
+        },
+        {
+            " Team Name": "Quebec Nordiques",
+            "Year": "1990",
+            "Goals": "236"
+        },
+        {
+            " Team Name": "St. Louis Blues",
+            "Year": "1990",
+            "Goals": "310"
+        },
+        {
+            " Team Name": "Toronto Maple Leafs",
+            "Year": "1990",
+            "Goals": "241"
+        },
+        {
+            " Team Name": "Vancouver Canucks",
+            "Year": "1990",
+            "Goals": "243"
+        },
+        {
+            " Team Name": "Washington Capitals",
+            "Year": "1990",
+            "Goals": "258"
+        },
+        {
+            " Team Name": "Winnipeg Jets",
+            "Year": "1990",
+            "Goals": "260"
+        },
+        {
+            " Team Name": "Boston Bruins",
+            "Year": "1991",
+            "Goals": "270"
+        },
+        {
+            " Team Name": "Buffalo Sabres",
+            "Year": "1991",
+            "Goals": "289"
+        },
+        {
+            " Team Name": "Calgary Flames",
+            "Year": "1991",
+            "Goals": "296"
+        },
+        {
+            " Team Name": "Chicago Blackhawks",
+            "Year": "1991",
+            "Goals": "257"
+        }
+    ]
+}

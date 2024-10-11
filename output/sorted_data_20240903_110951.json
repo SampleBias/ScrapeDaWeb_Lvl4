@@ -1,0 +1,40 @@
+{
+    "listings": [
+        {
+            "name": "Syndicate Laboratories",
+            "email": "",
+            "text": "syn'da-kit: A collaborative alliance of visionary individuals and pioneering companies dedicated to shaping the future by making Science and Technology accessible to all.",
+            "links": "https://patreon.com/user?u=86192557&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link"
+        },
+        {
+            "name": "Don't Die DIY",
+            "email": "",
+            "text": "A revolutionary initiative in antiaging and longevity research, empowering individuals worldwide to explore and contribute to cutting-edge longevity research.",
+            "links": "http://patreon.com/user?u=86192557"
+        },
+        {
+            "name": "open_nexus",
+            "email": "",
+            "text": "An open-sourced cancer type classifier utilizing ML-driven classification and prediction of treatment responses for cancer.",
+            "links": "http://patreon.com/user?u=86192557"
+        },
+        {
+            "name": "exo_lab",
+            "email": "",
+            "text": "Provides an open-source guide to cultivating Mesenchymal Stem Cells and harvesting exosomes using a colorimetric device.",
+            "links": "https://github.com/Syndicate-Laboratories/exo_lab.git"
+        },
+        {
+            "name": "open_immune",
+            "email": "",
+            "text": "An AI-Driven Simulation of the Human Immune System aimed at enhancing our understanding of immune system dynamics.",
+            "links": "https://www.youtube.com/watch?v=8ybW48rKBME"
+        },
+        {
+            "name": "BHC_V2",
+            "email": "",
+            "text": "Songs of DNA, Destructions, and other synthetic delusions of the Syndicate.",
+            "links": "https://github.com/Syndicate-Laboratories/BHC_V2.git"
+        }
+    ]
+}

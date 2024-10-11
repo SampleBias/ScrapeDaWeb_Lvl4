@@ -244,7 +244,7 @@ def calculate_price(input_text, output_text, model=model_used):
 
 
 if __name__ == "__main__":
-    url = 'https://news.ycombinator.com/'
+    url = 'https://webscraper.io/test-sites/e-commerce/static/phones/touch'
     fields=['Title', 'Number of Points', 'Creator', 'Time Posted', 'Number of Comments']
 
     try:

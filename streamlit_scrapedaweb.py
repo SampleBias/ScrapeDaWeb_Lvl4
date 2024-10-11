@@ -8,7 +8,7 @@ from scraper import fetch_html_selenium, save_raw_data, format_data, save_format
 
 # Initialize Streamlit app
 st.set_page_config(page_title="Universal Web Scraper")
-st.title("Universal Web Scraper 🦑")
+st.title("Universal Scrape Da Web 🦑")
 
 # Sidebar components
 st.sidebar.title("Web Scraper Settings")

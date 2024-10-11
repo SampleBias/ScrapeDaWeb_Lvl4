@@ -1,0 +1,76 @@
+{
+    "listings": [
+        {
+            "name": "New Skateboard 1",
+            "product": "Skateboard",
+            "price": "$75",
+            "email": ""
+        },
+        {
+            "name": "Used Skateboard 2",
+            "product": "Skateboard",
+            "price": "$80",
+            "email": ""
+        },
+        {
+            "name": "New Skateboard 3",
+            "product": "Skateboard",
+            "price": "$68",
+            "email": ""
+        },
+        {
+            "name": "Used Skateboard 4",
+            "product": "Skateboard",
+            "price": "$70",
+            "email": ""
+        },
+        {
+            "name": "New Skateboard 5",
+            "product": "Skateboard",
+            "price": "$75",
+            "email": ""
+        },
+        {
+            "name": "New Skateboard 6",
+            "product": "Skateboard",
+            "price": "$58",
+            "email": ""
+        },
+        {
+            "name": "New Skateboard 7",
+            "product": "Skateboard",
+            "price": "$80",
+            "email": ""
+        },
+        {
+            "name": "New Skateboard 8",
+            "product": "Skateboard",
+            "price": "$35",
+            "email": ""
+        },
+        {
+            "name": "New Skateboard 9",
+            "product": "Skateboard",
+            "price": "$165",
+            "email": ""
+        },
+        {
+            "name": "Used Skateboard 10",
+            "product": "Skateboard",
+            "price": "$54",
+            "email": ""
+        },
+        {
+            "name": "Used Skateboard 11",
+            "product": "Skateboard",
+            "price": "$99",
+            "email": ""
+        },
+        {
+            "name": "New Skateboard 12",
+            "product": "Skateboard",
+            "price": "$110",
+            "email": ""
+        }
+    ]
+}

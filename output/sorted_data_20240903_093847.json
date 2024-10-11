@@ -1,0 +1,28 @@
+{
+    "listings": [
+        {
+            "title": "Nokia 123",
+            "price": "$24.99"
+        },
+        {
+            "title": "LG Optimus",
+            "price": "$57.99"
+        },
+        {
+            "title": "Samsung Galaxy",
+            "price": "$93.99"
+        },
+        {
+            "title": "Nokia X",
+            "price": "$109.99"
+        },
+        {
+            "title": "Sony Xperia",
+            "price": "$118.99"
+        },
+        {
+            "title": "Ubuntu Edge",
+            "price": "$499.99"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "listings": [
+        {
+            "names": "Syndicate Laboratories",
+            "email": "support@syndicatelaboratories.com"
+        },
+        {
+            "names": "Don't Die DIY",
+            "email": "support@dontdiy.com"
+        },
+        {
+            "names": "open_nexus",
+            "email": "support@open-nexus.com"
+        },
+        {
+            "names": "exo_lab",
+            "email": "support@exo-lab.com"
+        },
+        {
+            "names": "open_immune",
+            "email": "support@open-immune.com"
+        },
+        {
+            "names": "BHC_V2",
+            "email": "support@bhc-v2.com"
+        }
+    ]
+}

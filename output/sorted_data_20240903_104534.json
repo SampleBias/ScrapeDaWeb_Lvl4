@@ -1,0 +1,28 @@
+{
+    "listings": [
+        {
+            "text": "Agenda una cita con tu doctor"
+        },
+        {
+            "text": "Debe completar el campo para buscar"
+        },
+        {
+            "text": "Seleccione el pa\u00eds Selecciona tu ciudad o haz clic en buscar"
+        },
+        {
+            "text": "No hay resultados para la b\u00fasqueda"
+        },
+        {
+            "text": "Mensaje Ver perfil Reservar cita"
+        },
+        {
+            "text": "Email es requerido Formato inv\u00e1lido"
+        },
+        {
+            "text": "Nombre completo es requerido"
+        },
+        {
+            "text": "Mensaje es requerido"
+        }
+    ]
+}
